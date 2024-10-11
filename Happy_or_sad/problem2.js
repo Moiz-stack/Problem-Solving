@@ -1,4 +1,4 @@
-let number = 36;
+let number = 27;
 let end = 0
 
 let multiply=1
